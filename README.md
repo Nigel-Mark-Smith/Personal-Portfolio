@@ -7,3 +7,4 @@ Repository | Comments
 find_compaines | Demonstrates Perl scripting. 
 virtualbox_centos_servers | Demonstrates LINUX admin skills 
 process_vacancies | Demonstrates MySQL and Python skills
+covid_alerts | Demonstrates Python skills
