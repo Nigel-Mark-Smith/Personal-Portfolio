@@ -9,3 +9,4 @@ virtualbox_centos_servers | Demonstrates LINUX admin skills
 process_vacancies | Demonstrates MySQL and Python skills
 covid_alerts | Demonstrates Python skills
 msoa_lookup | Demonstrates Python skills
+covid_update | Demonstrates Python skills. Use covid_alerts for uptodate software
