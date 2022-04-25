@@ -5,7 +5,7 @@ This README will detail what skills it is intended to demonstrate in each of the
 Repository | Comments
 -----------|---------
 find_compaines | Demonstrates Perl scripting. 
-virtualbox_centos_servers | Demonstrates LINUX admin skills 
+virtualbox_centos_servers | Demonstrates LINUX admin skills and Ansible skills.
 process_vacancies | Demonstrates MySQL and Python skills
 covid_alerts | Demonstrates Python skills
 msoa_lookup | Demonstrates Python skills
